@@ -1,5 +1,17 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianpoemp&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianpoemp&layout=compact&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=julianpoemp&show_icons=true&theme=dark&count_private=true"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianpoemp&layout=compact&show_icons=true&theme=dark&count_private=true" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 <!--
 **julianpoemp/julianpoemp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
